@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Daniel Sánchez Castelló, but I'm also known as Dani Sancas.
 
-### What about my background
+### About my background
 I've been a web backend developer for years, but on 2015 I've changed to Big Data, primarily with [Apache Spark](https://github.com/apache/spark).
 
 ### What I'm currently working on
