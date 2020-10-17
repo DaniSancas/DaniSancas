@@ -5,18 +5,22 @@ My name is Daniel Sánchez Castelló, but I'm also known as Dani Sancas.
 I've been a web backend developer for years, but on 2015 I've changed to Big Data, primarily with [Apache Spark](https://github.com/apache/spark).
 
 ### What I'm working on
-Currently I work as Big Data Engineer.
+I'm currently working as Big Data Engineer.
 
 ### What I'm currently learning
 Since 2020 I've been interested in Machine Learning / Deep Learning, and I'm focused on learning it.
 
 ### What have I participated in
 #### Conferences
-- PeumConf 2020 [Spanish / Online / Free]: [Spark: Una chispa para dominarlos a todos](https://www.youtube.com/watch?v=_k4-b_MKCik)
+- PeumConf 2020 [Spanish | Online | Free]: **Spark: Una chispa para dominarlos a todos**
+  - [Video](https://www.youtube.com/watch?v=_k4-b_MKCik)
+  - [Slides](https://github.com/DaniSancas/conferences/blob/main/peumconf2020_spark.pdf)
 #### Online teaching
-- Scala series courses [Spanish / Online / Free]: [Taller Scala - Playlist](https://www.youtube.com/playlist?list=PLQLA_LWJwvJPQkoO7MzOWPc1eqZH8jPZF)
+- Scala workshop series [Spanish | Online | Free]: **Taller Scala**
+  - [Video playlist](https://www.youtube.com/playlist?list=PLQLA_LWJwvJPQkoO7MzOWPc1eqZH8jPZF)
+  - [Resources](https://github.com/DaniSancas/TallerScalaPEUM)
 
-### Where you can find me:
+### Where you can find me
 - Professional profile on LinkedIn: [DaniSancas](https://www.linkedin.com/in/danisancas/)
 - Personal profile on Twitter: [@SancasDev](https://twitter.com/SancasDev)
 
