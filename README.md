@@ -1,10 +1,10 @@
 ## Hi there 👋
 My name is Daniel Sánchez Castelló, but I'm also known as Dani Sancas.
 
-### What's my background
+### What about my background
 I've been a web backend developer for years, but on 2015 I've changed to Big Data, primarily with [Apache Spark](https://github.com/apache/spark).
 
-### What I'm working on
+### What I'm currently working on
 I'm currently working as Big Data Engineer.
 
 ### What I'm currently learning
@@ -20,7 +20,7 @@ Since 2020 I've been interested in Machine Learning / Deep Learning, and I'm foc
   - [Video playlist](https://www.youtube.com/playlist?list=PLQLA_LWJwvJPQkoO7MzOWPc1eqZH8jPZF)
   - [Resources](https://github.com/DaniSancas/TallerScalaPEUM)
 
-### Where you can find me
+### Where can you find me
 - Professional profile on LinkedIn: [DaniSancas](https://www.linkedin.com/in/danisancas/)
 - Personal profile on Twitter: [@SancasDev](https://twitter.com/SancasDev)
 
