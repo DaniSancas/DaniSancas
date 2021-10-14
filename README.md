@@ -12,6 +12,8 @@ Since 2020 I've been interested in Machine Learning / Deep Learning, and I'm foc
 
 ### What have I participated in
 #### Conferences
+- Tech Club Asturias #TuFuturo2021 [Spanish | Online | Free]: **FP DAW y DAM (mesa redonda)**
+  - [Video](https://www.youtube.com/watch?v=fVS9mlL4Tok)
 - PeumConf 2020 [Spanish | Online | Free]: **Spark: Una chispa para dominarlos a todos**
   - [Video](https://www.youtube.com/watch?v=_k4-b_MKCik)
   - [Slides](https://github.com/DaniSancas/conferences/blob/main/peumconf2020_spark.pdf)
