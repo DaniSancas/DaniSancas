@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hi there 
 My name is Daniel Sánchez Castelló, but I'm also known as Dani Sancas.
 
-### About my background
+### 🤓 About my background
 I've been a web backend developer for years, but on 2015 I've changed to Big Data, primarily with [Apache Spark](https://github.com/apache/spark).
 
-### What I'm currently working on
+### 👷 What I'm currently working on
 I'm currently working as Big Data Engineer.
 
-### What I'm currently learning
-Since 2020 I've been interested in Machine Learning / Deep Learning, and I'm focused on learning it.
+### 👨‍🎓 What I'm currently learning (updated 2022 Q1)
+Getting proficient with Git, relying less on GUIs and more on the CLI.
 
-### What have I participated in
+### ❤️ What I'm currently loving (updated 2022 Q1)
+[TIG](https://github.com/jonas/tig): Text-mode interface for git
+
+### 🤝 What have I participated in
 #### Conferences
 - Tech Club Asturias #TuFuturo2021 [Spanish | Online | Free]: **FP DAW y DAM (mesa redonda)**
   - [Video](https://www.youtube.com/watch?v=fVS9mlL4Tok)
@@ -24,7 +27,8 @@ Since 2020 I've been interested in Machine Learning / Deep Learning, and I'm foc
 
 ### Where can you find me
 - Professional profile on LinkedIn: [DaniSancas](https://www.linkedin.com/in/danisancas/)
-- Personal profile on Twitter: [@SancasDev](https://twitter.com/SancasDev)
+- Personal profile on Mastodon: [@sancas@fosstodon.org](https://fosstodon.org/@sancas)
+- Personal profile on Twitter: [@SancasDev](https://twitter.com/SancasDev) (currently inactive)
 
 
 <!--
