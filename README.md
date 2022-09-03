@@ -7,11 +7,21 @@ I've been a web backend developer for years, but on 2015 I've changed to Big Dat
 ### 👷 What I'm currently working on
 I'm currently working as Big Data Engineer.
 
-### 👨‍🎓 What I'm currently learning (updated 2022 Q1)
+### 👨‍🎓 What I'm currently learning
+
+#### 2022 H2
+Trying to get into Rust (again), is 2023 going to be the Year of Rust? 🤔
+
+#### 2022 H1
 Getting proficient with Git, relying less on GUIs and more on the CLI.
 
-### ❤️ What I'm currently loving (updated 2022 Q1)
-[TIG](https://github.com/jonas/tig): Text-mode interface for git
+### ❤️ What I'm currently loving
+
+#### 2022 H2
+[bac🐽n](https://crates.io/crates/bacon): Background rust compiler & linter.
+
+#### 2022 H1
+[TIG](https://github.com/jonas/tig): Text-mode interface for git.
 
 ### 🤝 What have I participated in
 #### Conferences
