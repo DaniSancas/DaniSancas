@@ -5,7 +5,7 @@ My name is Daniel Sánchez Castelló, but I'm also known as Dani Sancas.
 I've been a web backend developer for years, but on 2015 I've changed to Big Data, primarily with [Apache Spark](https://github.com/apache/spark) and [Pandas](https://github.com/pandas-dev/pandas).
 
 ### 👷 What I'm currently working on
-I'm currently working as a Data Engineer, with Python.
+I'm currently working as a Data Engineer, with Python/Pandas.
 
 ### 👨‍🎓 What I'm currently learning
 
@@ -38,8 +38,6 @@ Getting proficient with Git, relying less on GUIs and more on the CLI.
 ### Where can you find me
 - Professional profile on LinkedIn: [DaniSancas](https://www.linkedin.com/in/danisancas/)
 - Personal profile on Mastodon: [@sancas@fosstodon.org](https://fosstodon.org/@sancas)
-- Personal profile on Twitter: [@SancasDev](https://twitter.com/SancasDev) (currently inactive)
-
 
 <!--
 **DaniSancas/DaniSancas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
