@@ -5,23 +5,15 @@ My name is Daniel Sánchez Castelló, but I'm also known as Dani Sancas.
 I've been a web backend developer for years, but on 2015 I've changed to Big Data, primarily with [Apache Spark](https://github.com/apache/spark) and [Pandas](https://github.com/pandas-dev/pandas).
 
 ### 👷 What I'm currently working on
-I'm currently working as a Data Engineer, with Python/Pandas.
+I'm currently working as a Senior Data Engineer, with Python & Spark/Pandas.
 
-### 👨‍🎓 What I'm currently learning
-
-#### 2022 H2
-Trying to get into Rust (again), is 2023 going to be the Year of Rust? 🤔
-
-#### 2022 H1
-Getting proficient with Git, relying less on GUIs and more on the CLI.
+<!-- ### 👨‍🎓 What I'm currently learning -->
 
 ### ❤️ What I'm currently loving
 
-#### 2022 H2
-[bac🐽n](https://crates.io/crates/bacon): Background rust compiler & linter.
-
-#### 2022 H1
-[TIG](https://github.com/jonas/tig): Text-mode interface for git.
+*Last update: 2024 H2*
+- Giving a serious chance to [Neovim](https://github.com/neovim/neovim) with [Kickstart](https://github.com/nvim-lua/kickstart.nvim) for minimal setup
+- Starting with [Tmux](https://github.com/tmux/tmux). Am I a coding influencer yet? 🤔 😂
 
 ### 🤝 What have I participated in
 #### Conferences
